@@ -3,7 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "2efbb41d7877d10aac9d091f58ccd7b9",
+  "assets/AssetManifest.json": "4c6f4f48fdf2f2ea346ad067912b7375",
+"assets/assets/SPIDERMAN-3.jpg": "46e1e90bb3612e492eb6f4731f462e0e",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "e0217d9aa174cb259a804b5c78bc3964",
@@ -13,9 +14,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "9b0ead7b645db3e121f9ab1018e9cc99",
-"/": "9b0ead7b645db3e121f9ab1018e9cc99",
-"main.dart.js": "2e0630fd109d3e6f54a1732ecd2da495",
+"index.html": "a2227c644acd42e1b3a4b21400b0a157",
+"/": "a2227c644acd42e1b3a4b21400b0a157",
+"main.dart.js": "0200b92b289c92d9e2bb8d7f697dc233",
 "manifest.json": "6571e8ae7eb26c0c5ac4c1115419cee2",
 "version.json": "d362dd43338b4246ff0e10d1594725b1"
 };
