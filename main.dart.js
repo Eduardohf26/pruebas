@@ -47894,7 +47894,7 @@ M(a,b){var s,r,q=null
 this.a.toString
 s=A.a1v("Flutter Demo Home Page",q,q,q)
 r=A.a1v(""+this.d,A.bT(b).V.d,q,q)
-return new A.r5(new A.op(s,new A.FA(q,q,1/0,56),q),A.JO(A.ade(A.a([B.FZ,r,A.wO(q,new A.py(A.afh(q,q,new A.os("SPIDERMAN-3.JPG",q,q)),q),q,q,q,q,q),A.wO(q,A.a1v("holaaaaa",q,q,q),q,q,q,q,q)],t.p),B.Ac),q,q),A.a4n(B.wK,!1,this.gNg(),"Increment"),q)}}
+return new A.r5(new A.op(s,new A.FA(q,q,1/0,56),q),A.JO(A.ade(A.a([B.FZ,r,A.wO(q,new A.py(A.afh(q,q,new A.os("assets/SPIDERMAN-3.JPG",q,q)),q),q,q,q,q,q),A.wO(q,A.a1v("holaaaaa",q,q,q),q,q,q,q,q)],t.p),B.Ac),q,q),A.a4n(B.wK,!1,this.gNg(),"Increment"),q)}}
 A.Xf.prototype={
 $0(){++this.a.d},
 $S:0}
